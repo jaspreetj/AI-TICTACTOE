@@ -1,4 +1,4 @@
 # AI-TICTACTOE
 An intelligent AI for TICTACTOE game that learns from you and predicts your moves.
 
-![alt tag](https://photos-5.dropbox.com/t/2/AAAfjrspvprH6pXVGzTCRhOf617Kjj_Ou74iQgw-J-pPKw/12/485895722/png/32x32/1/_/1/2/3.png/EJKItvgDGC8gBygH/aQNYP1i8AzOo6RnDcbjM3TBY-F4oAFH0taE_az_qJEo?size=1280x960&size_mode=2)
+![alt tag](https://cloud.githubusercontent.com/assets/15523357/11237597/cc99d8fa-8dd8-11e5-8e33-997e90dc6729.png)
